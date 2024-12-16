@@ -19,16 +19,17 @@ header{
 .latest-news-section h3{
 	text-align : center
 }
-.pictorial-news-section img{
-	width : 200px;
-	margin-top : 10px
-}
+
 .pictorial-news-section{
 	background-color : #fff;
 	width : 200px;
 	padding : 20px;
 	margin-top : 5px;
 	border-radius : 15px;
+}
+.pictorial-news-section img{
+	width : 200px;
+	margin-top : 10px
 }
 .pictorial-news-section h3{
 	text-align : center;
