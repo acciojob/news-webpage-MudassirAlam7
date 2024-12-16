@@ -41,7 +41,7 @@ header{
 	border-radius : 15px;
 	margin-top : 5px;
 }
-.Main-Article h3{
+.Main-Article h3 p{
 	text-align : center;
 	font-weight : bold;
 }
