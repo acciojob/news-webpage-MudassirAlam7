@@ -32,7 +32,8 @@ header{
 	font-weight : bold;
 }
 .pictorial-news-section img{
-	width : 200px
+	width : 200px;
+	margin-top : 10px
 }
 .pictorial-news-section{
 	background-color : #fff;
