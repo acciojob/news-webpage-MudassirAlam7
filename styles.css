@@ -19,18 +19,6 @@ header{
 .latest-news-section h3{
 	text-align : center
 }
-.Main-Article{
-	background-color : #fff;
-	padding : 20px;
-	width : 400px;
-	height : 250px;
-	border-radius : 15px;
-	margin-top : 5px;
-}
-.Main-Article h3{
-	text-align : center;
-	font-weight : bold;
-}
 .pictorial-news-section img{
 	width : 200px;
 	margin-top : 10px
@@ -45,6 +33,19 @@ header{
 .pictorial-news-section h3{
 	text-align : center;
 }
+.Main-Article{
+	background-color : #fff;
+	padding : 20px;
+	width : 400px;
+	height : 250px;
+	border-radius : 15px;
+	margin-top : 5px;
+}
+.Main-Article h3{
+	text-align : center;
+	font-weight : bold;
+}
+
 .container{
 	display : flex;
 	gap: 5px;
